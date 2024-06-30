@@ -1,0 +1,3 @@
+supervisorctl restart sync_bahor_chance
+supervisorctl restart sync_parvoz_xumo
+supervisorctl restart sync_zarhal

@@ -1,0 +1,11 @@
+export DATABASE_HOST="127.0.0.1"
+export DATABASE_NAME="parvoz_xumo"
+export DATABASE_USERNAME="paxta_buxoro_user"
+export DATABASE_PASSWORD="paxta_buxoro_password"
+export DJANGO_SETTINGS_MODULE=config.settings_custom
+export CONTOUR_IS_REQUIRED=0
+export MEDIA_PATH="/home/parvoz_xumo/media/"
+export FACTURA_NUM=98
+export SEC_FACTURA_NUM=99
+export CALC_COUNT=99
+
