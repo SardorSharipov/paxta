@@ -1,0 +1,10 @@
+export DATABASE_HOST="127.0.0.1"
+export DATABASE_NAME="paxta_buxoro_db"
+export DATABASE_USERNAME="paxta_buxoro_user"
+export DATABASE_PASSWORD="paxta_buxoro_password"
+export DJANGO_SETTINGS_MODULE=config.settings_custom
+export CONTOUR_IS_REQUIRED=1
+export MEDIA_PATH="/home/paxta/media/"
+export FACTURA_NUM=87
+export SEC_FACTURA_NUM=88
+export CALC_COUNT=99
